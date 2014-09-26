@@ -1,5 +1,6 @@
 mutebox
 =======
+![](https://github.com/antila/mutebox/blob/master/schematics/mutebox_bb.png)
 
 Software and hardware schematics for a 3 button USB media keyboard with volume knob.
 
